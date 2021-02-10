@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package proto;
+
+message Request {
+    int64 a = 1;
+    int64 b = 2;
+}
+
+message Response {
+    int64 result = 1;
+}
+
+service AddService {
+    rpc Addition(Request) returns (Response);
+    rpc Subtraction(Request) returns (Response);
+    rpc Multiplication(Request) returns (Response);
+    rpc Division(Request) returns (Response);
+}
