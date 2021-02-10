@@ -27,25 +27,25 @@
 
 - `localhost:8080/add/<number>/<number>`
 
-<img src="https://github.com/imdhruv99/Golang-GRPC-Protobuf-Calculator/blob/main/screenshots/add.png" alt="Addition API" width="500" height="600">
+<img src="https://github.com/imdhruv99/Golang-GRPC-Protobuf-Calculator/blob/main/screenshots/add.png" alt="Addition API">
 
 - ##### Substraction
 
 - `localhost:8080/sub/<number>/<number>`
 
-<img src="https://github.com/imdhruv99/Golang-GRPC-Protobuf-Calculator/blob/main/screenshots/sub.png" alt="Subtraction API" width="500" height="600">
+<img src="https://github.com/imdhruv99/Golang-GRPC-Protobuf-Calculator/blob/main/screenshots/sub.png" alt="Subtraction API">
 
 - ##### Multiplication
 
 - `localhost:8080/mul/<number>/<number>`
 
-<img src="https://github.com/imdhruv99/Golang-GRPC-Protobuf-Calculator/blob/main/screenshots/mul.png" alt="Multiplication API" width="500" height="600">
+<img src="https://github.com/imdhruv99/Golang-GRPC-Protobuf-Calculator/blob/main/screenshots/mul.png" alt="Multiplication API">
 
 - ##### Division
 
 - `localhost:8080/div/<number>/<number>`
 
-<img src="https://github.com/imdhruv99/Golang-GRPC-Protobuf-Calculator/blob/main/screenshots/div.png" alt="Division API" width="500" height="600">
+<img src="https://github.com/imdhruv99/Golang-GRPC-Protobuf-Calculator/blob/main/screenshots/div.png" alt="Division API">
 
 ### Thank You !
 - D H R U V  P R A J A P A T I
